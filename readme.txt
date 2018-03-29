@@ -15,4 +15,4 @@ again
 
 16:11 2018/3/2
 
-16:11 2018/3/2916:11 2018/3/29
+Creating a new branch is quick & simple.
