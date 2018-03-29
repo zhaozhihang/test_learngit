@@ -15,4 +15,4 @@ again
 
 16:11 2018/3/2
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
